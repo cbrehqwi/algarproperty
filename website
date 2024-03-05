@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Company Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="company-logo.png" alt="Company Logo" class="logo">
+      <h1>Welcome to Our Company</h1>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <img src="main-image.jpg" alt="Main Image" class="main-image">
+      <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel aliquam lectus, sit amet fermentum eros. Aenean vitae augue quis libero porta fringilla id eget justo.</p>
+    </div>
+  </main>
+</body>
+</html>
